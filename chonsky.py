@@ -149,3 +149,7 @@ def main():
 
     regras = ultimo_passo(regras, estado_final, estado_inicial)
     mostrar_resultado(regras)
+
+
+if __name__ == "__main__":
+    main()
